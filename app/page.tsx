@@ -179,7 +179,7 @@ export default function Home() {
             </p>
             <div className="flex flex-col items-center gap-4">
               <a 
-                href="/flow-arch/flow-arch-installer.iso" 
+                href="https://sourceforge.net/projects/flow-arch/files/2026.01.02/flow-arch-2026.01.02-x86_64.iso/download" 
                 className="px-10 py-5 bg-cyan-500 hover:bg-cyan-400 text-black font-extrabold text-xl rounded-xl transition-all shadow-[0_0_30px_rgba(34,211,238,0.4)] hover:shadow-[0_0_50px_rgba(34,211,238,0.6)] flex items-center gap-3"
               >
                 <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">

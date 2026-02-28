@@ -71,6 +71,11 @@ export default function Home() {
                 Explore Features
               </Link>
             </div>
+            <div className="mt-8 flex justify-center">
+              <a href="https://sourceforge.net/projects/flow-arch/files/latest/download" target="_blank" rel="noopener noreferrer">
+                <img alt="Download Flow-Arch" src="https://img.shields.io/sourceforge/dt/flow-arch.svg" />
+              </a>
+            </div>
           </div>
         </section>
 
@@ -193,6 +198,11 @@ export default function Home() {
                 Download Flow Arch v1.0
               </a>
               <span className="text-slate-500 text-sm">x86_64 ISO • 2.4 GB • MD5: 8f4a...</span>
+              <div className="mt-4">
+                <a href="https://sourceforge.net/projects/flow-arch/files/latest/download" target="_blank" rel="noopener noreferrer">
+                  <img alt="Download Flow-Arch" src="https://img.shields.io/sourceforge/dt/flow-arch.svg" className="mx-auto" />
+                </a>
+              </div>
             </div>
           </div>
         </section>

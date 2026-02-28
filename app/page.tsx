@@ -34,6 +34,11 @@ export default function Home() {
         {/* Hero Section */}
         <section className="relative pt-32 pb-20 md:pt-48 md:pb-32 overflow-hidden">
           <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-cyan-900/20 via-slate-950 to-slate-950 -z-10" />
+          <div className="absolute top-24 right-6 md:right-12 z-10 hidden lg:block">
+            <div className="sf-root" data-id="3945280" data-badge="oss-rising-star-black" data-metadata="achievement=oss-rising-star" style={{ width: '160px' }}>
+              <a href="https://sourceforge.net/projects/flow-arch/" target="_blank">Flow-Arch</a>
+            </div>
+          </div>
           <div className="container mx-auto px-6 text-center">
             <div className="inline-block mb-6 animate-fade-in-up">
               <Image
